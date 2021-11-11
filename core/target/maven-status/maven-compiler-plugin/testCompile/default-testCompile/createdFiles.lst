@@ -1,5 +1,0 @@
-com\ugamdemo\core\listeners\SimpleResourceListenerTest.class
-com\ugamdemo\core\schedulers\SimpleScheduledTaskTest.class
-com\ugamdemo\core\filters\LoggingFilterTest.class
-com\ugamdemo\core\models\HelloWorldModelTest.class
-com\ugamdemo\core\servlets\SimpleServletTest.class
