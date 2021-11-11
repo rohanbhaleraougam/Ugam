@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ugamdemo.ui.tests" />
+        <module name="ugamdemo.ui.apps.structure" />
+        <module name="ugamdemo.it.tests" />
+        <module name="ugamdemo.ui.config" />
+        <module name="ugamdemo.ui.apps" />
+        <module name="ugamdemo.ui.content" />
+        <module name="ugamdemo.all" />
+        <module name="ugamdemo.core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ugamdemo" target="1.8" />
+      <module name="ugamdemo.all" target="1.8" />
+      <module name="ugamdemo.core" target="1.8" />
+      <module name="ugamdemo.it.tests" target="1.8" />
+      <module name="ugamdemo.ui.apps" target="1.8" />
+      <module name="ugamdemo.ui.apps.structure" target="1.8" />
+      <module name="ugamdemo.ui.config" target="1.8" />
+      <module name="ugamdemo.ui.content" target="1.8" />
+      <module name="ugamdemo.ui.frontend" target="1.8" />
+      <module name="ugamdemo.ui.tests" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

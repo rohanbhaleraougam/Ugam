@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: Ugamdemo - UI content
+Content-Package-Roots: /conf/ugamdemo,/content/dam/ugamdemo,/content/e
+ xperience-fragments/ugamdemo,/content/ugamdemo
+Implementation-Version: 1.0.0-SNAPSHOT
+Content-Package-Dependencies-Locations: com.ugamdemo:ugamdemo.ui.apps:
+ 1.0.0-SNAPSHOT=maven:com.ugamdemo:ugamdemo.ui.apps:1.0.0-SNAPSHOT:zip
+Content-Package-Dependencies: com.ugamdemo:ugamdemo.ui.apps:1.0.0-SNAP
+ SHOT
+Build-Jdk-Spec: 1.8
+Content-Package-Type: content
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.4
+Content-Package-Id: com.ugamdemo:ugamdemo.ui.content:1.0.0-SNAPSHOT
+Content-Package-Description: UI content package for Ugamdemo
+

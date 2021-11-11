@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Ugamdemo - All
+Content-Package-Roots: /apps/ugamdemo-packages,/apps/ugamdemo-vendor-p
+ ackages
+Implementation-Version: 1.0.0-SNAPSHOT
+Build-Jdk-Spec: 1.8
+Content-Package-Type: container
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.4
+Content-Package-Id: com.ugamdemo:ugamdemo.all:1.0.0-SNAPSHOT
+Content-Package-Description: All content package for Ugamdemo
+
